@@ -1,4 +1,5 @@
 name: RegrowthSpawn
 version: ${project.version}
 main: org.lushplugins.regrowthspawn.RegrowthSpawn
-api-version: '1.17'
+api-version: '1.21.11'
+github-repo: RegrowthMC/RegrowthSpawn
