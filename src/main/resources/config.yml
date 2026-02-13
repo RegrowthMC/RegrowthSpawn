@@ -1,0 +1,16 @@
+enabled: false
+
+# Whether players should be teleported to spawn when they join for the first time
+spawn-on-first-join: true
+# Whether players should be teleported to spawn each time they join
+spawn-on-join: true
+# Whether players should be teleported to spawn when they respawn (This setting overrides beds)
+spawn-on-respawn: true
+
+location:
+  world: world
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  pitch: 0
