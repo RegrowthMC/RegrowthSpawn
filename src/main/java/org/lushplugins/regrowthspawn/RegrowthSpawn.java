@@ -1,6 +1,6 @@
 package org.lushplugins.regrowthspawn;
 
-import org.lushplugins.lushlib.plugin.SpigotPlugin;
+import org.lushplugins.lushlib.utils.plugin.SpigotPlugin;
 import org.lushplugins.regrowthspawn.command.RegrowthSpawnCommand;
 import org.lushplugins.regrowthspawn.config.ConfigManager;
 import org.lushplugins.regrowthspawn.listener.PlayerListener;
